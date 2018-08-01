@@ -1,4 +1,4 @@
 # gitskills
 hello world
 wo ca
-create master haha !!!!!!!!
+create feature1 haha !!!!!!!!
